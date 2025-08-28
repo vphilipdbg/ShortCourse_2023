@@ -1,4 +1,4 @@
-# Homepage for the Addiction ShortCourse 2019
+# Homepage for the Addiction ShortCourse 2023
 
 Welcome to the Addiction ShortCourse Workshop Homepage! On here, you will find the datasets and scripts for each afternoons workshop organized in a sequential manner. But before we dive right in to that, here are some details regarding the contents you will find here along with software and programming enviornments we will be using. 
 
